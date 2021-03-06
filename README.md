@@ -2,16 +2,15 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv4
-```
+> git clone https://github.com/Mfuz1/Fuzbot1``
 
 ## Install the dependencies:
 Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd botwasapv4
-> bash install.sh
+> cd Fuzbot1
+
 ```
 
 ### Usage
